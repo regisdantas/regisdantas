@@ -63,8 +63,6 @@ I build software for:
 
 # ⭐ Some of My Projects
 
-Below is a clean **3-column project grid** (auto-wraps on mobile):
-
 <table>
 <tr>
 <td width="33%">
@@ -74,9 +72,9 @@ Daily journaling app built with **React, TypeScript, Firebase**.
 Secure sync, clean UI, and fast offline-friendly experience.  
 <br>
 <a href="https://regisdantas.github.io/gratify-journalling">
-<b>▶️ Play / Open App</b>
+<b>▶️ Use the App</b>
 </a>
-
+<br>
 </td>
 <td width="33%">
 
@@ -107,14 +105,22 @@ Ray-casting fully rendered in the browser using ASCII.
 ### 🎲 [rpg-master-ai](https://github.com/regisdantas/rpg-master-ai)
 AI-powered RPG master using **React + ChatGPT APIs**.  
 Generates quests, NPCs, maps, and encounters dynamically.
-
+<br>
+<a href="">
+<b>▶️ Play the Game</b>
+</a>
+<br>
 </td>
 <td width="33%">
 
 ### 🐺 [matilha-shared-lists](https://github.com/regisdantas/matilha-shared-lists)
 Family list-organizer built with **React + TypeScript**.  
 Share tasks, lists, and reminders in real time across a family “pack”.
-
+<br>
+<a href="">
+<b>▶️ Use the App</b>
+</a>
+<br>
 </td>
 <td width="33%">
 
