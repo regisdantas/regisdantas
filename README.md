@@ -67,11 +67,11 @@ I build software for:
 <tr>
 <td width="33%">
 
-### 🎯 [gratify-journalling](https://github.com/regisdantas/gratify-journalling)
+### 🎯 [gratify-journaling](https://github.com/regisdantas/gratify-journaling)
 Daily journaling app built with **React, TypeScript, Firebase**.  
 Secure sync, clean UI, and fast offline-friendly experience.  
 <br>
-<a href="https://regisdantas.github.io/gratify-journalling/#/dashboard">
+<a href="https://regisdantas.github.io/gratify-journaling/#/dashboard">
 <b>▶️ Use the App</b>
 </a>
 <br>
