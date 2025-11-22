@@ -67,7 +67,7 @@ I build software for:
 <tr>
 <td width="33%">
 
-### 🎯 [gratify-journalling](https://github.com/regisdantas/gratify-journalling)
+### 🎯 [gratify-journalling](https://regisdantas.github.io/gratify-journalling/#/dashboard)
 Daily journaling app built with **React, TypeScript, Firebase**.  
 Secure sync, clean UI, and fast offline-friendly experience.  
 <br>
