@@ -5,7 +5,7 @@ With **12+ years of professional experience**, I work across the entire stack �
 
 ---
 
-## 🧪 Tech Stack & Badges
+## 🧪 Tech Stack
 
 ### **Languages**
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
@@ -41,6 +41,19 @@ I build software for:
 
 ---
 
+## 🎓 Licenses & Certifications
+
+| Certification | Issuer |
+|--------------|--------|
+| LFEL1001: Understanding the EU Cyber Resilience Act (CRA) | The Linux Foundation |
+| LFC111: Open Source Technical Documentation Essentials | The Linux Foundation |
+| LFS183: Introduction to Zero Trust | The Linux Foundation |
+| LFC108: Cybersecurity Essentials | The Linux Foundation |
+| LFD121: Developing Secure Software | The Linux Foundation |
+| SKF100: Understanding the OWASP® Top 10 Security Threats | The Linux Foundation |
+
+---
+
 ## 📫 Social Media & Contact
 
 - **LinkedIn:** [linkedin.com/in/regismdantas](https://www.linkedin.com/in/regismdantas)  
@@ -56,7 +69,7 @@ Below is a clean **3-column project grid** (auto-wraps on mobile):
 <tr>
 <td width="33%">
 
-### 🎯 [Gratify-Journalling](https://github.com/regisdantas/gratify-journalling)
+### 🎯 [gratify-journalling](https://github.com/regisdantas/gratify-journalling)
 Daily journaling app built with **React, TypeScript, Firebase**.  
 Secure sync, clean UI, and fast offline-friendly experience.  
 <br>
