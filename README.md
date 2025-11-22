@@ -67,11 +67,11 @@ I build software for:
 <tr>
 <td width="33%">
 
-### 🎯 [gratify-journalling](https://regisdantas.github.io/gratify-journalling/#/dashboard)
+### 🎯 [gratify-journalling](https://github.com/regisdantas/gratify-journalling)
 Daily journaling app built with **React, TypeScript, Firebase**.  
 Secure sync, clean UI, and fast offline-friendly experience.  
 <br>
-<a href="https://regisdantas.github.io/gratify-journalling">
+<a href="https://regisdantas.github.io/gratify-journalling/#/dashboard">
 <b>▶️ Use the App</b>
 </a>
 <br>
@@ -106,7 +106,7 @@ Ray-casting fully rendered in the browser using ASCII.
 AI-powered RPG master using **React + ChatGPT APIs**.  
 Generates quests, NPCs, maps, and encounters dynamically.
 <br>
-<a href="">
+<a href="https://regisdantas.github.io/rpg-master-ai">
 <b>▶️ Play the Game</b>
 </a>
 <br>
@@ -117,7 +117,7 @@ Generates quests, NPCs, maps, and encounters dynamically.
 Family list-organizer built with **React + TypeScript**.  
 Share tasks, lists, and reminders in real time across a family “pack”.
 <br>
-<a href="">
+<a href="https://regisdantas.github.io/matilha-shared-lists">
 <b>▶️ Use the App</b>
 </a>
 <br>
