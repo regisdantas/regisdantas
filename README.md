@@ -3,85 +3,111 @@
 I'm a 33-year-old full-stack and embedded software engineer based in Curitiba, Brazil.  
 With **12+ years of professional experience**, I work across the entire stack — from low-level firmware and Linux systems to modern web applications and cloud-connected services.
 
-### 💻 What I Do
+---
+
+## 🧪 Tech Stack & Badges
+
+### **Languages**
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white)
+
+### **Frameworks & Tools**
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Yocto](https://img.shields.io/badge/Yocto-35495E?logo=yocto&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 💻 What I Do
 I build software for:
 - **Embedded Linux systems**
-- **Microcontrollers & low-level firmware**
-- **Web applications (front-end & back-end)**
-- **Networking, telemetry, and real-time systems**
+- **Microcontrollers & firmware**
+- **Web apps (front-end & back-end)**
+- **Network protocols, telemetry & real-time systems**
 - **Tooling, automation, and system integration**
 
-### 🧰 Technical Skills
-**Languages:**  
-C/C++ (15+ years), JavaScript/NodeJS (8+ years), Python (8+ years), Shell Script (8+ years), TypeScript  
+---
 
-**Platforms & OS:**  
-Linux development (8+ years), Windows development (15+ years), Embedded systems (ARM Cortex, Arduino)
-
-**Web & Backend:**  
-REST APIs, React, NodeJS, TypeScript, CI/CD pipelines, Nginx
-
-**Databases:**  
-PostgreSQL, SQLite, MongoDB, Firebase (8+ years)
-
-**Build Systems & Tooling:**  
-Yocto, Buildroot, git, real-time systems, network protocol development, telemetry architecture
-
-**Other:**  
-Project management (MBA), low-power design, systems architecture, firmware optimization
-
-### 🌍 Languages
+## 🌍 Languages
 - **English:** Full professional proficiency  
 - **Portuguese:** Native
 
+---
+
+## 📫 Social Media & Contact
+
+- **LinkedIn:** [linkedin.com/in/regismdantas](https://www.linkedin.com/in/regismdantas)  
+- **Instagram:** [instagram.com/regismdantas](https://www.instagram.com/regismdantas)
 
 ---
 
-## ⭐ Some of My Projects
+# ⭐ Some of My Projects
 
----
+Below is a clean **3-column project grid** (auto-wraps on mobile):
 
-## [Gratify-Journalling](https://github.com/regisdantas/gratify-journalling)
+<table>
+<tr>
+<td width="33%">
 
-A modern daily journaling web app built with **React**, **TypeScript**, **REST APIs**, and **Firebase**.  
-Write and organize journal and gratitude entries, browse by day, and sync securely with **Firebase Auth** and **Firestore**.  
-Fast, responsive, and designed for mindful daily reflection.
+### 🎯 [Gratify-Journalling](https://github.com/regisdantas/gratify-journalling)
+Daily journaling app built with **React, TypeScript, Firebase**.  
+Secure sync, clean UI, and fast offline-friendly experience.  
+<br>
+<a href="https://regisdantas.github.io/gratify-journalling">
+<b>▶️ Play / Open App</b>
+</a>
 
-### ▶️ [Play / Open App](https://regisdantas.github.io/gratify-journalling)
+</td>
+<td width="33%">
 
----
+### 🧠 [roadmap-me](https://github.com/regisdantas/roadmap-me)
+Lightweight mind-map builder with **React**.  
+Create nodes, write Markdown, attach images, save/load JSON maps.  
+<br>
+<a href="https://regisdantas.github.io/roadmap-me">
+<b>▶️ Use the App</b>
+</a>
 
-## [roadmap-me](https://github.com/regisdantas/roadmap-me)
+</td>
+<td width="33%">
 
-A lightweight **React mind-map builder** for creating roadmap-style visual maps.  
-Add nodes and subnodes, mark tasks done, edit titles, write Markdown/HTML, attach image links, and save/load maps as JSON.  
-Runs fully in the browser with a clean, fast, REST-powered workflow.
+### 🏰 [wolfenstein-ascii-fps](https://github.com/regisdantas/wolfenstein-ascii-fps)
+A **retro ASCII FPS** inspired by Wolfenstein 3D.  
+Ray-casting fully rendered in the browser using ASCII.  
+<br>
+<a href="https://regisdantas.github.io/wolfenstein-ascii-fps">
+<b>▶️ Play the Game</b>
+</a>
 
-### ▶️ [Use the APP](https://regisdantas.github.io/roadmap-me)
+</td>
+</tr>
+<tr>
+<td width="33%">
 
----
+### 🎲 [rpg-master-ai](https://github.com/regisdantas/rpg-master-ai)
+AI-powered RPG master using **React + ChatGPT APIs**.  
+Generates quests, NPCs, maps, and encounters dynamically.
 
-## [Wolfenstein ASCII FPS](https://github.com/regisdantas/wolfenstein-ascii-fps)
+</td>
+<td width="33%">
 
-A retro 3D ASCII first-person shooter inspired by **Wolfenstein 3D (1992)**.  
-Built in **JavaScript**, this project renders a full ray-casted 3D world directly in the browser using ASCII characters.
+### 🐺 [matilha-shared-lists](https://github.com/regisdantas/matilha-shared-lists)
+Family list-organizer built with **React + TypeScript**.  
+Share tasks, lists, and reminders in real time across a family “pack”.
 
-### ▶️ [Play the Game](https://regisdantas.github.io/wolfenstein-ascii-fps)
+</td>
+<td width="33%">
 
----
-
-## [rpg-master-ai](https://github.com/regisdantas/rpg-master-ai)
-
-AI-powered tabletop RPG Master Assistant built with **REST + React**.  
-Runs in the browser and integrates with ChatGPT to generate dynamic quests, NPCs, maps, and encounters on the fly.  
-Perfect for DMs seeking smart automation, immersive storytelling, and fast campaign management.
-
----
-
-## [matilha-shared-lists](https://github.com/regisdantas/matilha-shared-lists)
-
-Family list-organizer web app built with **REST, React, and TypeScript**.  
-Create a shared “pack” to manage tasks, shopping lists, and reminders in real time.  
-Members can collaborate in the browser or keep personal lists individually.
+<!-- empty or future project -->
+</td>
+</tr>
+</table>
 
 ---
