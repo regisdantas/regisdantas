@@ -105,7 +105,7 @@ Ray-casting fully rendered in the browser using ASCII.
 ### 🎲 [rpg-master-ai](https://github.com/regisdantas/rpg-master-ai)
 AI-powered RPG master using **React + ChatGPT APIs**.  
 Generates quests, NPCs, maps, and encounters dynamically.
-<br>
+<br><br>
 <a href="https://regisdantas.github.io/rpg-master-ai">
 <b>▶️ Play the Game</b>
 </a>
@@ -116,7 +116,7 @@ Generates quests, NPCs, maps, and encounters dynamically.
 ### 🐺 [matilha-shared-lists](https://github.com/regisdantas/matilha-shared-lists)
 Family list-organizer built with **React + TypeScript**.  
 Share tasks, lists, and reminders in real time across a family “pack”.
-<br>
+<br><br>
 <a href="https://regisdantas.github.io/matilha-shared-lists">
 <b>▶️ Use the App</b>
 </a>
@@ -124,7 +124,14 @@ Share tasks, lists, and reminders in real time across a family “pack”.
 </td>
 <td width="33%">
 
-<!-- empty or future project -->
+### 🌙 [anima.ai](https://github.com/regisdantas/anima.ai)
+A Python-based Telegram Bot AI dream-interpretation assistant with OpenAI integration,
+embeddings, multi-approach analysis and payment system.
+<br><br>
+<a href="https://github.com/regisdantas/anima.ai/blob/main/doc/assets/anima.ai.bot.jpg">
+<b>▶️ Use the Bot</b>
+</a>
+<br>
 </td>
 </tr>
 </table>
