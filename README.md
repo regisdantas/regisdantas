@@ -1,7 +1,10 @@
 ## 👋 Hi, I'm Regis Dantas
 
-I'm a 33-year-old full-stack and embedded software engineer based in Curitiba, Brazil.  
-With **12+ years of professional experience**, I work across the entire stack — from low-level firmware and Linux systems to modern web applications and cloud-connected services.
+I'm a Full Stack Software Engineer based in Curitiba, Brazil, with **13+ years of professional experience** building scalable applications and complex systems.
+
+My work spans from backend architecture and cloud-connected platforms to embedded Linux environments. I’m driven by building **large-scale, impactful solutions** — platforms and systems that operate at scale and play a meaningful role in real business operations.
+
+With a degree in Electrical Engineering and an MBA in Project Management, I combine deep technical expertise with structured execution and strategic thinking. My engineering background allows me to design systems holistically — focusing on performance, reliability, security, and long-term scalability.
 
 ---
 
@@ -15,29 +18,41 @@ With **12+ years of professional experience**, I work across the entire stack �
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white)
 
-### **Frameworks & Tools**
+### **Frameworks & Technologies**
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Yocto](https://img.shields.io/badge/Yocto-35495E?logo=yocto&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+### **Systems & Infrastructure**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Yocto](https://img.shields.io/badge/Yocto-35495E?logo=yocto&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
-## 💻 What I Do
-I build software for:
-- **Embedded Linux systems**
-- **Microcontrollers & firmware**
-- **Web apps (front-end & back-end)**
-- **Network protocols, telemetry & real-time systems**
-- **Tooling, automation, and system integration**
+## 🚀 What I Do
+
+I design and build:
+
+- **Scalable backend systems and RESTful APIs**
+- **Modern full stack web applications**
+- **Cloud-connected platforms**
+- **Embedded Linux systems and secure device software**
+- **Containerized services and distributed architectures**
+
+I focus strongly on clean architecture, maintainable code, security, and performance optimization — always aiming for long-term scalability rather than short-term fixes.
 
 ---
 
 ## 🌍 Languages
 - **English:** Full professional proficiency  
 - **Portuguese:** Native
+- **Spanish:** Limited professional proficiency
 
 ---
 
